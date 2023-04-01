@@ -21,9 +21,5 @@
 
 ###
 
-<div align="left">
+<div align="center">
 </div>
-
-###
-
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1080555416045490299/1091704802297270362/MEEP.png"  />
